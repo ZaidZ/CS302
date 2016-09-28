@@ -1,0 +1,1 @@
+This is a repository used for the Algorithms and Data Structures (CS302) course on IUS. JAVA is the primary language used in this repository. Throughout the weeks, various code snippets will be put in this repository in order to enhance the learning process of students.
